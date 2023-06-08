@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; PinMed Inc.</title>
+	<atom:link href="https://www.pinmed.net/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.pinmed.net/</link>
+	<description>Personalized Intelligent Medicine</description>
+	<lastBuildDate>Thu, 02 Jun 2022 04:06:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Software</title>
+		<link>https://www.pinmed.net/software/</link>
+		
+		<dc:creator><![CDATA[ios_2000@yahoo.com]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2015 17:19:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.pinmed.local/wordpress11_7_2014/?p=337</guid>
+
+					<description><![CDATA[The <a class="more-link" href="https://www.pinmed.net/software/"></a>]]></description>
+										<content:encoded><![CDATA[<h1><strong>The PELEX software suite includes:</strong></h1>
+<h2><strong>Personal Heart Expert</strong></h2>
+<p><img loading="lazy" class="wp-image-267 size-medium alignleft" src="https://www.pinmed.net/wp-content/uploads/2014/12/P1020597-e1422044550338-300x252.jpg" alt="" width="300" height="252" srcset="https://www.pinmed.net/wp-content/uploads/2014/12/P1020597-e1422044550338-300x252.jpg 300w, https://www.pinmed.net/wp-content/uploads/2014/12/P1020597-e1422044550338-1024x861.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />Allows a smart phone to <strong>receive data wirelessly</strong> from the mobile ECG system and to view, edit, analyze, print, and transmit the data to a local computer or remote Web server using any open communication channel, including a cell phone, land line, WiFi, or Internet connection. Provides two-directional communication with the server and feedback to the user in textual, numeric, and graphical forms.</p>
+<p>Functionality includes:</p>
+<ul>
+<li>Secure programming of the ECG recorders, including:</li>
+<li>Mode of operation: real-time transmission via Bluetooth or Holter recording</li>
+<li>Number of channels</li>
+<li>Sampling rate</li>
+<li>Duration of the recording</li>
+<li>Display of ECG tracings</li>
+<li>Text fields for recording patient name, ID, and complaints</li>
+<li>ECG data storage in a local database </li>
+<li>Review of previously recorded ECGs </li>
+<li>Printing of ECG on a wireless printer </li>
+<li>Transfer of ECG and results of analysis to a remote server and GE MUSE database via the Internet, WiFi, or land line</li>
+<li>Feedback and automatic updates from the remote server</li>
+</ul>
+<p><strong>PELEX Cloud Software, including Web server and database</strong><img loading="lazy" class="wp-image-532 size-medium alignleft" src="https://www.pinmed.net/wp-content/uploads/2015/01/Pelex_cloud.-300x240.jpg" alt="" width="300" height="240" srcset="https://www.pinmed.net/wp-content/uploads/2015/01/Pelex_cloud.-300x240.jpg 300w, https://www.pinmed.net/wp-content/uploads/2015/01/Pelex_cloud..jpg 774w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<ul>
+<li>Provides two-directional communication, data storage, and accurate, intelligent analysis of individual ECG dynamics (proprietary technology, <a title="Patents" href="https://www.pinmed.net/?page_id=124" target="_blank" rel="noopener">protected by U.S. patents</a>).</li>
+<li>Receives the ECG sent from a smart phone</li>
+<li>Stores the ECG in the server database</li>
+<li>Analyzes the data and stores the results in the server database</li>
+<li>Forwards the data to the GE MUSE database</li>
+<li>Sends feedback and automatic updates to the software on a smart phone</li>
+</ul>
+<p><strong>PELEX Analysis Software</strong></p>
+<p><img loading="lazy" class="wp-image-290 size-medium alignleft" src="https://www.pinmed.net/wp-content/uploads/2014/12/ECG-analysis-2-300x168.jpg" alt="" width="300" height="168" srcset="https://www.pinmed.net/wp-content/uploads/2014/12/ECG-analysis-2-300x168.jpg 300w, https://www.pinmed.net/wp-content/uploads/2014/12/ECG-analysis-2-1024x576.jpg 1024w, https://www.pinmed.net/wp-content/uploads/2014/12/ECG-analysis-2.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<ul>
+<li>Processes complex, multiparametric datasets with fusion of data obtained from different sensors. This software has been successfully used in studies conducted at Yale University.</li>
+<li>Analyzes subtle ECG changes, including repolarization instabilities, in diagnostic and ambulatory (Holter) ECGs, even in the presence of artifacts generated by implantable devices</li>
+<li>Tracks the dynamics of blood-pressure and pulse waveforms</li>
+<li>Analyzes changes in:
+<ul>
+<li>respiration</li>
+<li>physical activity</li>
+<li>body position</li>
+</ul>
+</li>
+<li>Synchronizes and fuses physiological data obtained from different sensors</li>
+<li>Synchronizes physiological data with time points of behavioral assessments</li>
+<li>Note:<strong> For research use only. </strong>PELEX Analysis Software has not yet been cleared by the FDA for clinical use.</li>
+</ul>
+<p><strong>PELEX Explorer</strong></p>
+<p><strong><img loading="lazy" class="wp-image-470 size-medium alignleft" src="https://www.pinmed.net/wp-content/uploads/2015/01/pelex-explorer2-300x246.jpg" alt="" width="300" height="246" srcset="https://www.pinmed.net/wp-content/uploads/2015/01/pelex-explorer2-300x246.jpg 300w, https://www.pinmed.net/wp-content/uploads/2015/01/pelex-explorer2-1024x840.jpg 1024w, https://www.pinmed.net/wp-content/uploads/2015/01/pelex-explorer2.jpg 1527w" sizes="(max-width: 300px) 100vw, 300px" /></strong>Provides local or remote connection to the PELEX server from any PC via the Internet, allowing the user to view, download, print, edit, and save ECG data in the server database.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hardware</title>
+		<link>https://www.pinmed.net/hardware/</link>
+		
+		<dc:creator><![CDATA[ios_2000@yahoo.com]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2014 16:31:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.pinmed.local/wordpress11_7_2014/?p=84</guid>
+
+					<description><![CDATA[PELEX-MAX: <a class="more-link" href="https://www.pinmed.net/hardware/"></a>]]></description>
+										<content:encoded><![CDATA[<h1 class="entry-title"><a title="Permalink to PELEX-MAX: An MRI-Compatible, Wireless, 12-Lead ECG, Blood Pressure, and Oximetry System" href="https://www.pinmed.net/wireless_mri-compatible_12-lead_ecg_pressure_oximetry/" rel="bookmark">PELEX-MAX:</a> An MRI-Compatible, Wireless, 12-Lead ECG, Blood Pressure, and Oximetry System</h1>
+<h1><img loading="lazy" class="alignnone size-large wp-image-822" src="https://www.pinmed.net/wp-content/uploads/2016/06/PelexMaxWorkflow2-1024x641.jpg" alt="" width="750" height="469" srcset="https://www.pinmed.net/wp-content/uploads/2016/06/PelexMaxWorkflow2-1024x641.jpg 1024w, https://www.pinmed.net/wp-content/uploads/2016/06/PelexMaxWorkflow2-300x188.jpg 300w, https://www.pinmed.net/wp-content/uploads/2016/06/PelexMaxWorkflow2-768x481.jpg 768w, https://www.pinmed.net/wp-content/uploads/2016/06/PelexMaxWorkflow2.jpg 1920w" sizes="(max-width: 750px) 100vw, 750px" /></h1>
+<p><strong>PELEX-MAX is a </strong><strong>multisensor, wireless, mobile unit and review station </strong>designed to provide uninterrupted, high-quality data during MRI- and X-ray-guided procedures, as well as during patient transportation and multi-modal imaging. It<strong> </strong>addresses the need for continuous monitoring in the challenging environments of the interventional cardiology suite, ICU, operating room, and ER.  PELEX-MAX eliminates the need to detach and reattach different monitoring systems for different procedures and hospital units, improving the quality and efficiency of patient care. <span id="yui_3_16_0_1_1422040408967_15665">(Note: <strong>currently for research use only.</strong> This product has not yet been cleared by the FDA for clinical use.) </span><span id="yui_3_16_0_1_1422040408967_15665"><strong><a href="https://www.pinmed.net/wireless_mri-compatible_12-lead_ecg_pressure_oximetry/" target="_blank" rel="noopener">Learn more.</a></strong></span></p>
+<h1><strong> </strong><strong>The Personal Electrocardiographic Expert (PELEX)</strong></h1>
+<p><img loading="lazy" class="alignleft wp-image-459" src="http://www.pinmed.local/wordpress11_7_2014/wp-content/uploads/2014/12/pelex-phone-combo-300x179.jpg" alt="pelex+phone combo" width="354" height="211" srcset="https://www.pinmed.net/wp-content/uploads/2014/12/pelex-phone-combo-300x179.jpg 300w, https://www.pinmed.net/wp-content/uploads/2014/12/pelex-phone-combo.jpg 594w" sizes="(max-width: 354px) 100vw, 354px" /><strong>PELEX is the only FDA-cleared, professional-quality ECG system</strong> that combines high <span id="yui_3_16_0_1_1422040408967_15675">fidelity and versatility of diagnostic, 12-lead ECG with various types of ambulatory monitoring in a light, pocket-size unit</span>. PELEX allows you to record an ECG, shows the data on a smart phone, and sends the information to a medical center for more advanced processing or directly to the phone of a healthcare professional.</p>
+<p>The multipurpose, wireless system also provides <span id="yui_3_16_0_1_1422040408967_15676"><strong>high-fidelity monitoring of physical activity and body position</strong>.</span></p>
+<p><strong>Advantages of the PELEX wireless technological platform:</strong></p>
+<ul>
+<li>Small and lightweight</li>
+<li>24 high-resolution/high-speed data channels</li>
+<li>Long operating times due to ultra-low power consumption (&gt;15 hours in high-resolution, 1000 Hz /channel mode)</li>
+<li>FDA-cleared, diagnostic quality, 12-lead ECG and other physiological data</li>
+<li>Data transmission via Bluetooth to PC-based stations and smart phone for improved interoperability and convenience</li>
+<li>Low system noise and channel cross-talk</li>
+<li>Immediate data analysis and connectivity with the GE Healthcare cardiology database (MUSE)</li>
+<li>Allows monitoring and/or real-time transmission of:
+<ul>
+<li>8 ECG channels with the sampling frequency of 1000 Hz/channel</li>
+<li>Electrical impedance for each electrode (as an indicator of the quality of skin-electrode contacts)</li>
+<li>Cardiac pacemaker</li>
+<li>3 channels for 3-axial, high-fidelity accelerometer data, indicating changes in body position and mechanical movements</li>
+<li>Patient-activated events</li>
+</ul>
+</li>
+</ul>
+<p>PELEX is p<span id="yui_3_16_0_1_1422040408967_15676">rotected by <a title="Patents" href="https://www.pinmed.net/?page_id=124" target="_blank" rel="noopener">several US patents</a>.</span></p>
+<h3><strong>Coming soon:</strong></h3>
+<h1><img loading="lazy" class="size-medium wp-image-1018 alignleft" src="https://www.pinmed.net/wp-content/uploads/2014/12/TRIO_pic-300x173.png" alt="" width="300" height="173" srcset="https://www.pinmed.net/wp-content/uploads/2014/12/TRIO_pic-300x173.png 300w, https://www.pinmed.net/wp-content/uploads/2014/12/TRIO_pic.png 432w" sizes="(max-width: 300px) 100vw, 300px" />TRIO-MR</h1>
+<p>The first MRI-compatible system for high-fidelity cardiovascular monitoring, external cardiac defibrillation, and pacing. (<span id="yui_3_16_0_1_1422040408967_15665">Note: <strong>currently for research use only.</strong> This product has not yet been cleared by the FDA for clinical use.)</span></p>
+<h1><strong>The Arterial Pressure Expert (APEX-Centro)</strong></h1>
+<p>The first <strong>multisensor, high-fidelity monitoring system for tracking cardiac and vascular activity</strong> to provide complete characterization of cardiovascular system dynamics, <strong>APEX-Centro provides continuous, cuff-free, noninvasive tracking of central arterial pressure</strong>, as well as ECG, cardiac output, vascular resistance, and other important cardiovascular parameters. Its unique flexibility and range of sensors will address the needs of both researchers and clinicians. n 2016, the prototype was successfully tested in human subjects within an NIH-supported project. <span id="yui_3_16_0_1_1422040408967_15665">(Note: <strong>currently for research use only.</strong> This product has not yet been cleared by the FDA for clinical use.)</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What we do</title>
+		<link>https://www.pinmed.net/what_we_do/</link>
+		
+		<dc:creator><![CDATA[ios_2000@yahoo.com]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2014 16:31:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.pinmed.local/wordpress11_7_2014/?p=82</guid>
+
+					<description><![CDATA[PinMed&#8217;s <a class="more-link" href="https://www.pinmed.net/what_we_do/"></a>]]></description>
+										<content:encoded><![CDATA[<h3>PinMed&#8217;s mission is to provide clinicians, researchers, and individual health consumers with high-fidelity monitoring of electrocardiogram, central arterial pressure, and other physiological signals in the most challenging environments.</h3>
+<h2>PinMed develops:</h2>
+<p><a title="Hardware" href="https://www.pinmed.net/hardware/" target="_blank" rel="noopener noreferrer">High-fidelity, multisensor, programmable, wireless monitoring devices.</a></p>
+<ul>
+<li><span id="yui_3_16_0_1_1422040408967_15665"><a href="https://www.pinmed.net/wireless_mri-compatible_12-lead_ecg_pressure_oximetry/" target="_blank" rel="noopener"><strong>PELEX-MAX</strong></a> is a multisensor, wireless, mobile unit and review station designed to provide uninterrupted, high-quality data during MRI- and X-ray-guided procedures, as well as during patient transportation and multi-modal imaging. It<strong> </strong>addresses the need for continuous monitoring in the challenging environments of the interventional cardiology suite, ICU, operating room, and ER.  PELEX-MAX eliminates the need to detach and reattach different monitoring systems for different procedures and hospital units, improving the quality and efficiency of patient care.  (Note: <strong>currently for research use only.</strong> This product has not yet been cleared by the FDA for clinical use.) <strong><a href="https://www.pinmed.net/wireless_mri-compatible_12-lead_ecg_pressure_oximetry/" target="_blank" rel="noopener">Learn more.</a></strong></span></li>
+<li><span id="yui_3_16_0_1_1422040408967_15675">Versatile, <span id="yui_3_16_0_1_1422300955073_18652"><span id="yui_3_16_0_1_1422300955073_18651">lightweight, and </span>pocket size</span>, PinMed’s <strong>PELEX</strong> is the only FDA-cleared, professional-quality ECG system that combines d<span id="yui_3_16_0_1_1422300955073_18643">iagnostic, 12-lead ECG with various types of ambulatory monitoring, while also providing immediate wireless connectivity with a smart phone, PC, printer, and other consumer devices. PELEX also provides connectivity with PinMed&#8217;s cloud software for personalized, pattern-recognition based data processing and transmission to healthcare professionals.</span></span><span id="yiv1503996849yui_3_16_0_1_1422040408967_15665"></span></li>
+<li><a href="https://www.pinmed.net/hardware"><strong>APEX-Centro </strong></a>provides continuous, cuff-free, noninvasive tracking of central arterial pressure, as well as ECG, cardiac output, vascular resistance, and other important cardiovascular parameters. Its unique flexibility and range of sensors will address the needs of both researchers and clinicians. In 2016, the prototype was successfully tested in human subjects within an NIH-supported project; expanded testing is currently ongoing. <span id="yui_3_16_0_1_1422040408967_15665">(Note: <strong>currently for research use only.</strong> This product has not yet been cleared by the FDA for clinical use.)</span></li>
+<li><a href="https://www.pinmed.net/hardware"><strong>TRIO-MR </strong></a>is the first MRI-compatible system for high-fidelity cardiovascular monitoring, external cardiac defibrillation, and pacing. (<span id="yui_3_16_0_1_1422040408967_15665" style="font-size: inherit;">Note: <strong>currently for research use only.</strong> This product has not yet been cleared by the FDA for clinical use.)</span></li>
+<li><a title="Software" href="https://www.pinmed.net/software/" target="_blank" rel="noopener noreferrer">Software for a smart phone, computer, and Internet server,</a> allowing the user to:</li>
+<li style="list-style-type: none;">
+<ul>
+<li>assess quality/monitor ECG and other physiological data in real time on a smart phone or computing device</li>
+<li>save,  review, analyze, and print data on a smart phone or local computer</li>
+<li>transmit data from a smart phone to the cloud using any open communication channel</li>
+<li>store the data on the cloud, review, and download to any computer; perform intelligent analysis of an individual&#8217;s dynamical patterns using proprietary pattern-recognition based algorithms.<br />
+(Note: personalized analytical software has not yet been cleared by the FDA for clinical use and is <strong>currently for research use only.</strong>)</li>
+<li>provide two-directional communication between a smart phone and cloud software</li>
+</ul>
+</li>
+<li><a title="Custom Solutions" href="https://www.pinmed.net/custom-solutions/" target="_blank" rel="noopener noreferrer">Integrated systems and customized solutions</a> for  advanced biomedical research.</li>
+</ul>
+<h2><strong>Our innovative solutions address the needs of:</strong></h2>
+<ul>
+<li><strong>Healthcare providers. </strong>PinMed&#8217;s versatile systems provide efficient solutions for cardiologists, primary care physicians, nurses, medical technicians, and other healthcare personnel, eliminating the need for expensive equipment purchases. <strong><a title="Hardware" href="https://www.pinmed.net/hardware/" target="_blank" rel="noopener noreferrer">See more on PinMed&#8217;s monitoring solutions.</a></strong></li>
+<li><strong>Contract research organizations (CROs).</strong> PinMed&#8217;s technology can be utilized to improve efficiency and reduce costs of clinical trials and to document treatment efficacy, side effects, and complications.</li>
+<li style="text-align: left;"><strong>Academic and industry researchers who require high-fidelity physiological data and advanced data processing</strong>, including electrocardiographic T-wave alternans, T-wave amplitude and duration, QRS and QT-intervals, heart rate variability, and other parameters. <strong><a title="The PinMed Solution" href="https://www.pinmed.net/the_pinmed_solution/" target="_blank" rel="noopener noreferrer">See more on PinMed&#8217;s solutions for data acquisition and processing.</a></strong></li>
+<li><strong>Individuals with cardiovascular diseases and those at risk</strong>, such as those with high cholesterol, high blood pressure, diabetes, or obesity can use the PELEX system to monitor treatment effects and other physiological changes.  Because PELEX is easy to operate and affordable, the device can be used by everyone, anytime, anywhere. (Currently available for home use by prescription only.)</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Custom solutions</title>
+		<link>https://www.pinmed.net/solutions/</link>
+		
+		<dc:creator><![CDATA[ios_2000@yahoo.com]]></dc:creator>
+		<pubDate>Wed, 03 Dec 2014 16:25:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://www.pinmed.local/wordpress11_7_2014/?p=79</guid>
+
+					<description><![CDATA[PinMed <a class="more-link" href="https://www.pinmed.net/solutions/"></a>]]></description>
+										<content:encoded><![CDATA[<h2>PinMed provides customized hardware, software, and analytical services for medical researchers in leading academic centers such as Yale University and the NIH Clinical Center. Examples include:</h2>
+<hr />
+<h3 class="entry-title"><a href="https://www.pinmed.net/wireless_mri-compatible_12-lead_ecg_pressure_oximetry/" target="_blank" rel="noopener">PELEX-MAX:</a> An MRI-Compatible, Wireless, 12-Lead ECG, Blood Pressure, and Oximetry System</h3>
+<p class="entry-title"><span id="yui_3_16_0_1_1422040408967_15665"><strong>PELEX-MAX is a </strong><strong>multisensor, wireless, mobile unit and review station </strong>designed to provide uninterrupted, high-quality data during MRI- and X-ray-guided procedures, as well as during patient transportation and multi-modal imaging. It<strong> </strong>addresses the need for continuous monitoring in the challenging environments of the interventional cardiology suite, ICU, operating room, and ER.  PELEX-MAX eliminates the need to detach and reattach different monitoring systems for different procedures and hospital units, improving the quality and efficiency of patient care. The system was d</span>eveloped in collaboration with Dr. Anthony Faranesh, NIH. <span id="yui_3_16_0_1_1422040408967_15665"><a href="https://www.pinmed.net/wireless_mri-compatible_12-lead_ecg_pressure_oximetry/" target="_blank" rel="noopener">Read more.</a></span></p>
+<p><img loading="lazy" class="alignnone wp-image-910 size-large" src="https://www.pinmed.net/wp-content/uploads/2014/12/PELEX-MAX_MRI-1024x768.jpg" alt="" width="750" height="563" srcset="https://www.pinmed.net/wp-content/uploads/2014/12/PELEX-MAX_MRI-1024x768.jpg 1024w, https://www.pinmed.net/wp-content/uploads/2014/12/PELEX-MAX_MRI-300x225.jpg 300w, https://www.pinmed.net/wp-content/uploads/2014/12/PELEX-MAX_MRI-768x576.jpg 768w, https://www.pinmed.net/wp-content/uploads/2014/12/PELEX-MAX_MRI.jpg 2048w" sizes="(max-width: 750px) 100vw, 750px" /></p>
+<hr />
+<h3><strong>PinMed’s integrated technological platform </strong>for real-life, longitudinal data collection and analysis</h3>
+<ul>
+<li>Tested in NIH-supported clinical studies</li>
+<li>Mobile, modular systems for high-fidelity, harmonized data collection</li>
+<li>Proprietary algorithms and software for identifying an individual’s pattern of longitudinal data, accurate tracking of changes in newly received data, and detecting subtle but clinically important indicators of impending cardiovascular events</li>
+<li>Optimized network-distributed data processing</li>
+</ul>
+<p>Our analytical group has developed software for analyzing subtle, beat-to-beat changes in continuous, ambulatory ECG data (trends of T-wave alternans, QT-intervals, T-wave amplitudes, and other important parameters) in relation to the timepoints of behavioral/psychological assessment. This software has been instrumental for studying deleterious effects of psychological stress on the heart.</p>
+<hr />
+<h3><strong>Proarrhythmic effects of psychological stress in daily life. PI: Rachel Lampert, M.D., Yale University</strong></h3>
+<p><img loading="lazy" class="alignnone wp-image-290 size-full" src="https://www.pinmed.net/wp-content/uploads/2014/12/ECG-analysis-2.jpg" alt="" width="1280" height="720" srcset="https://www.pinmed.net/wp-content/uploads/2014/12/ECG-analysis-2.jpg 1280w, https://www.pinmed.net/wp-content/uploads/2014/12/ECG-analysis-2-300x168.jpg 300w, https://www.pinmed.net/wp-content/uploads/2014/12/ECG-analysis-2-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
+<div id="yui_3_16_0_1_1422038040912_4898"><strong>References</strong>:</div>
+<div>Lampert et al., JCE 2007; 18:512-17.</div>
+<div>Lampert et al., JACC 2009; 53:774-78.</div>
+<div>Results of this study have been featured in the U.S. popular media, including Reuters, CBS News, and CNN, as well as in the United Kingdom and Australia.</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: pinmed.local @ 2022-07-02 18:45:31 by W3 Total Cache
+-->
